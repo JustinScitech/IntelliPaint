@@ -10,10 +10,11 @@ This website is an AI-powered art generator that uses the MERN stack, Tailwind C
 
 With IntelliPaint, you'll be able to see your ideas come to life through drawings, paintings, and art!
 
+## HomePage
+![image](https://user-images.githubusercontent.com/56651128/219640856-49c05b6c-0ea4-4a8f-98b3-60f33376ac9d.png)
+
 ## Creation Page
 ![image](https://user-images.githubusercontent.com/56651128/219617363-d939f359-d298-4fec-bf91-01a100061aac.png)
-
-## HomePage
 
 ## More to come
 
