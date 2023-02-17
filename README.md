@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/56651128/219618117-b1b8c1bb-1942-4603-bcb1-287c812ea334.svg)
+![logo](https://user-images.githubusercontent.com/56651128/219618213-0cc10a39-7366-4e0a-b5c6-eff250538bd3.svg)
 
 This website is an AI-powered art generator that uses the MERN stack, Tailwind CSS, Cloudinary, and the OpenAI API to produce stunning and unique digital artwork. With a user-friendly interface and a range of customization options, you can create high-quality images that resemble real-world art pieces or abstract works.
 
