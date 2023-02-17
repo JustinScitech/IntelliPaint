@@ -1,8 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=IntelliPaint)](https://git.io/typing-svg)
+![logo](https://user-images.githubusercontent.com/56651128/219618117-b1b8c1bb-1942-4603-bcb1-287c812ea334.svg)
 
 This website is an AI-powered art generator that uses the MERN stack, Tailwind CSS, Cloudinary, and the OpenAI API to produce stunning and unique digital artwork. With a user-friendly interface and a range of customization options, you can create high-quality images that resemble real-world art pieces or abstract works.
 
 ## How it works
+
 - Built using React and Tailwind CSS to design the front-end components
 - Build the backend using MongoDB with the aid of Cloudinary to store user generated images
 - Utilizes the OpenAI API to generate drawings
