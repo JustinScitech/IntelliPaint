@@ -20,5 +20,3 @@ With IntelliPaint, you'll be able to see your ideas come to life through drawing
 
 - Plan on adding features for comparing images with each other, adding a rating system, and comment sections for the artwork
 
-## Try it out!
-[intellipaint.netlify.app/](https://intellipaint.netlify.app/)
